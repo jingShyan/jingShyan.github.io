@@ -696,7 +696,7 @@ a:focus {
           align-items: center;
   margin: 45px 0;
   text-align: center;
-  background-color: #3b4a6b;
+  background-color: #008ecc;
   color: #ffffff;
   border-radius: 15px;
   padding: 25px;
@@ -763,7 +763,7 @@ a:focus {
 }
 
 .footer_section {
-  background-color: #3b4a6b;
+  background-color: #008ecc;
   color: #ffffff;
   padding-top: 60px;
 }
